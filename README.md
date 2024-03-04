@@ -1,6 +1,6 @@
 # Trabalho de extenção 5 Sem 2024
 
-# Alunos:
-Higor Pinto Morais
-Rafael Duarte Barcelos Tavares
-Kamyla Mara de Gois Marinho
+\n Alunos:
+\n Higor Pinto Morais
+\n Rafael Duarte Barcelos Tavares
+\n Kamyla Mara de Gois Marinho
